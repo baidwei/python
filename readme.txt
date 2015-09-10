@@ -1,2 +1,2 @@
-git is distributed version control system.
-git is free soft distributed under the GPL.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
